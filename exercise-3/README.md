@@ -1,6 +1,7 @@
 # Exercise 3
 
 Hello, How is Life these days!??!?!?!?!
+I think this will be up there too
 1. **Fork** the repo onto your own github account  
 (maybe you already did it)
 
